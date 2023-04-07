@@ -32,6 +32,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [ralia79 😍](https://github.com/ralia79)
 - [Morteza Omidian 😍](https://github.com/morteza1131)
 - [Vahid Mashmooli](https://github.com/vmashmooli)
+- [Sky](https://github.com/semicloudysky)
 - [Mohsen Khademian 💀🖤](https://github.com/Mohsenkhademian)
 - [Reza Asgharzadeh ❤️😎](https://github.com/reza-asgharzadeh)
 - [Hosein Hobbi](https://github.com/HHobbi)
